@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Singleton</string>
+    <string name="first_activity">First Activity</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="button_close">Close Activity</string>
+    <string name="button_open">Open Second Activity</string>
+</resources>
